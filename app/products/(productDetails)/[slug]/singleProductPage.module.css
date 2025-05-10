@@ -1,0 +1,7 @@
+.singleProductPage {
+    display: grid;
+    
+}
+.singleProductPage > .inner {
+    display: flex;
+}

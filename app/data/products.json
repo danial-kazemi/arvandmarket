@@ -1,0 +1,22 @@
+[
+    {
+        "id":"1321",
+        "title": "Iphone 16",
+        "price": 1350,
+        "slug": "iphone16",
+        "description": "iphone16 lorem",
+        "cat": "phone",
+        "count": 10,
+        "image": "images/iphone16/iphone16-1.webp"
+    },
+    {
+        "id":"1322",
+        "title": "Iphone 16",
+        "price": 1350,
+        "slug": "iphone16",
+        "description": "iphone16 lorem",
+        "cat": "phone",
+        "count": 10,
+        "image": "images/iphone16/iphone16-1.webp"
+    }
+]
